@@ -74,7 +74,7 @@
       },
       "Dist::Zilla::BeLike::CSJEWELL" : {
          "file" : "lib/Dist/Zilla/BeLike/CSJEWELL.pm",
-         "version" : "0.991"
+         "version" : "0.992"
       },
       "Dist::Zilla::MintingProfile::CSJEWELL" : {
          "file" : "lib/Dist/Zilla/MintingProfile/CSJEWELL.pm",
@@ -118,13 +118,13 @@
       "bugtracker" : {
          "web" : "http://rt.cpan.org/NoAuth/Bugs.html?Dist=Dist-Zilla-BeLike-CSJEWELL"
       },
-      "homepage" : "http://perl.curtisjewell.name/",
+      "homepage" : "http://www.curtisjewell.name/",
       "license" : [
          "http://dev.perl.org/licenses/"
       ],
       "repository" : {
-         "url" : "http://bitbucket.org/csjewell/dist-zilla-belike-csjewell"
+         "url" : "http://hg.curtisjewell.name/Dist-Zilla-BeLike-CSJEWELL"
       }
    },
-   "version" : "0.991"
+   "version" : "0.992"
 }
