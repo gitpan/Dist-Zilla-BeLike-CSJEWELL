@@ -1,12 +1,12 @@
-Dist::Zilla::BeLike::CSJEWELL version 0.901
+Dist::Zilla::BeLike::CSJEWELL version 0.990
 
 INSTALLATION
     To install this module, run the following commands:
 
-            perl Makefile.PL
-            make
-            make test
-            make install
+        perl Makefile.PL
+        make
+        make test
+        make install
 
     This method of installation will require a current version of
     Module::Build if it is not already installed.
@@ -14,10 +14,10 @@ INSTALLATION
     Alternatively, to install with Module::Build, you can use the following
     commands:
 
-            perl Build.PL
-            ./Build
-            ./Build test
-            ./Build install
+        perl Build.PL
+        ./Build
+        ./Build test
+        ./Build install
 
 DEPENDENCIES
     This module depends on Dist::Zilla version 4.102221 or greater,
